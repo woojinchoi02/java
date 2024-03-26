@@ -2,7 +2,6 @@
 ##숫자추측 게임
 package hello;
 
-
 import java.util.*;
 public class hello {
 	
